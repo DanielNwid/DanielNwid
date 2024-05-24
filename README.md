@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on projects that involve data cleaning, exploratory data analysis, and creating insightful visualizations.
 - 📫 How to reach me https://www.linkedin.com/in/daniel-nwid/
-- 😄 Pronouns: Funny you should ask
+- 😄 Pronouns: Funny / you / should / ask.
 
 
 <!---
