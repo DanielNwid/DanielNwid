@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @DanielNwid
-- 👀 I’m interested in data analysis, data visualization, and exploring the potential of data to drive business insights and decisions.
-- 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on projects that involve data cleaning, exploratory data analysis, and creating insightful visualizations.
-- 📫 How to reach me https://www.linkedin.com/in/daniel-nwid/
-- 😄 Pronouns: He/Him
+👋 Hi, I'm Daniel
+📊 Data analyst focused on turning raw data into actionable insights. Passionate about data visualization and business intelligence.
+🛠️ Currently building with SQL and Python.
+💡 Open to collaborate on:
+
+Data cleaning projects
+Exploratory data analysis
+Interactive visualizations
+
+📫 Connect with me: https://x.com/Daniel_Onchain
 
 
 <!---
